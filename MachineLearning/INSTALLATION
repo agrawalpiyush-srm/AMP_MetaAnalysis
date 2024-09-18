@@ -1,0 +1,11 @@
+1. Prerequest
+==========
+--In order to run this program user should have Python3 and library scikit-learn.
+
+2. Usage
+=================
+1. Unzip/Untar
+
+2. Change dir to ampcell
+
+3. python3 ampcell.py -h (Minimum Usage)
